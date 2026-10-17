@@ -1,0 +1,12 @@
+[
+  {
+    "id": "msg_sample_1",
+    "name": "Prof. H. Sharma",
+    "email": "sharma.faculty@university.edu",
+    "subject": "Research Collab & Paper Discussion",
+    "role": "Engineer",
+    "message": "Loved the 3D visualizer demonstration in class. Let's schedule time to talk about undergraduate research opportunities.",
+    "createdAt": "2026-10-17T18:30:00.000Z"
+  }
+]
+

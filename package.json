@@ -1,0 +1,25 @@
+{
+  "name": "college-yatri-portfolio",
+  "version": "1.0.0",
+  "description": "Fullstack 3D Student Portfolio for College Yatri",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "threejs",
+    "3d",
+    "fullstack",
+    "student",
+    "college-yatri"
+  ],
+  "author": "College Yatri",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
+

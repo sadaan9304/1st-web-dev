@@ -1,0 +1,105 @@
+[
+  {
+    "id": "project-1",
+    "title": "CampusConnect: Academic Collab Hub",
+    "category": "fullstack",
+    "tagline": "Realtime peer-to-peer study rooms, notes repository & course forum for college students.",
+    "description": "Engineered a collaborative academic platform featuring live WebRTC study rooms, collaborative markdown notes, peer resource sharing, and course question boards with voting.",
+    "tech": ["Next.js", "Node.js", "Socket.io", "PostgreSQL", "TailwindCSS"],
+    "badge": "Fullstack • Featured",
+    "gradient": "from-cyan-500 to-blue-600",
+    "demoUrl": "https://github.com",
+    "githubUrl": "https://github.com",
+    "highlights": [
+      "Sub-50ms realtime chat & whiteboard synchronization",
+      "Over 1,200 peer-uploaded verified study resources",
+      "Role-based access control for students and campus mentors"
+    ]
+  },
+  {
+    "id": "project-2",
+    "title": "YatriSense: AI Student Copilot",
+    "category": "ai",
+    "tagline": "Automated lecture summarizer, flashcard generator & smart revision schedule optimizer.",
+    "description": "An intelligent student assistant that ingests lecture PDFs/audio, generates structured concept maps, and uses spaced repetition algorithms to dynamically schedule revision tasks before exams.",
+    "tech": ["Python", "FastAPI", "React", "LangChain", "OpenAI API", "ChromaDB"],
+    "badge": "AI / ML • Hackathon Winner",
+    "gradient": "from-purple-500 to-pink-600",
+    "demoUrl": "https://github.com",
+    "githubUrl": "https://github.com",
+    "highlights": [
+      "Won 1st Place at Inter-College Hackathon 2025",
+      "RAG pipeline over 300+ pages of academic textbooks",
+      "94% accuracy on contextual question answering"
+    ]
+  },
+  {
+    "id": "project-3",
+    "title": "PolyVerse 3D: Virtual Campus Tour",
+    "category": "3d",
+    "tagline": "Interactive WebGL 3D architectural exploration of university landmarks and labs.",
+    "description": "An immersive browser-based 3D campus navigation experience using Three.js and GLTF models, enabling incoming freshmen to explore lecture halls, libraries, and lab facilities interactively.",
+    "tech": ["Three.js", "WebGL", "GSAP", "JavaScript (ES6+)", "Vite"],
+    "badge": "3D WebGL • Interactive",
+    "gradient": "from-emerald-400 to-teal-600",
+    "demoUrl": "https://github.com",
+    "githubUrl": "https://github.com",
+    "highlights": [
+      "60 FPS smooth rendering on mobile and desktop GPUs",
+      "Interactive 3D hotspots triggering audio guide clips",
+      "Optimized asset loading with Draco mesh compression"
+    ]
+  },
+  {
+    "id": "project-4",
+    "title": "DevSprint: Cloud Code Playground",
+    "category": "fullstack",
+    "tagline": "Sandboxed browser IDE supporting multiple languages with instant execution.",
+    "description": "Built an online coding playground with secure containerized execution runners for Python, C++, and JavaScript, supporting live pair-programming and test case evaluation.",
+    "tech": ["React", "Express", "Docker", "Redis", "Monaco Editor"],
+    "badge": "Systems • Cloud",
+    "gradient": "from-amber-400 to-orange-600",
+    "demoUrl": "https://github.com",
+    "githubUrl": "https://github.com",
+    "highlights": [
+      "Isolated Docker container execution per user session",
+      "Monaco editor with full syntax highlighting & IntelliSense",
+      "Automated unit testing validation pipeline"
+    ]
+  },
+  {
+    "id": "project-5",
+    "title": "HostelCart: Campus Marketplace",
+    "category": "fullstack",
+    "tagline": "Verified peer-to-peer buy, sell & rent platform exclusively for hostel residents.",
+    "description": "Designed a secure marketplace for students to exchange textbooks, cycles, dorm essentials, and electronics with OTP campus email verification and in-app chat.",
+    "tech": ["React Native", "Node.js", "MongoDB", "Express", "Cloudinary"],
+    "badge": "Mobile • Fullstack",
+    "gradient": "from-blue-500 to-indigo-700",
+    "demoUrl": "https://github.com",
+    "githubUrl": "https://github.com",
+    "highlights": [
+      "500+ active student registrations within 2 weeks of launch",
+      "Geo-fenced pickup point recommendations inside campus",
+      "Integrated instant image upload & compression"
+    ]
+  },
+  {
+    "id": "project-6",
+    "title": "AlgoVisualizer 3D",
+    "category": "3d",
+    "tagline": "Step-by-step spatial 3D visualization of Graph, Tree, and Sorting algorithms.",
+    "description": "An educational tool transforming abstract data structures (Dijkstra, A*, Red-Black Trees, Quicksort) into intuitive 3D spatial node networks with time-travel step controls.",
+    "tech": ["Three.js", "HTML5 Canvas", "TailwindCSS", "TypeScript"],
+    "badge": "3D • DSA Visualizer",
+    "gradient": "from-rose-500 to-purple-600",
+    "demoUrl": "https://github.com",
+    "githubUrl": "https://github.com",
+    "highlights": [
+      "Dynamic 3D camera zoom and rotation around graph nodes",
+      "Customizable animation playback speed & step-back engine",
+      "Used by 200+ batchmates for semester exam preparation"
+    ]
+  }
+]
+
